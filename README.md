@@ -28,7 +28,7 @@ cd frontend
 yarn install
 yarn start
 ```
-## Group 2
+## Group 2 Information
 
 | Unique id | Discord username    |
 | --------- | ------------------- |
@@ -40,7 +40,7 @@ yarn start
 | Pok9XD    | @Timster            |
 | T5zGzt    | @Carl Youngblood            |
 
-## Report
+##  Final Report
 
 Our group collaborated on the dapp functionality. Our repo requires that the TOKEN_ADDRESS and BALLOT_ADDRESS
 you want to visualize be set in the .env file. The dapp allows you to delegate votes, deploy a new tokenized
@@ -50,5 +50,4 @@ transactions to infer all previously deployed contracts and then display their r
 ## References
 token contract: 0x3c9d658a9b358cf1985bc52c5476229e8b186f1f
 
-## Cute Gif for Motivation 
 
