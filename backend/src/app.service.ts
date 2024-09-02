@@ -1,3 +1,7 @@
+/* 
+
+named imports
+*/
 import { Injectable } from '@nestjs/common';
 import * as tokenJson from './assets/MyToken.json';
 import * as ballotJson from './assets/TokenizedBallot.json';
@@ -129,6 +133,8 @@ export class AppService {
 
     return receipt;
   }
+
+
 
   // **THIS another code snippet version is also working**
   // async mintTokens(address: any, amount: any) {
