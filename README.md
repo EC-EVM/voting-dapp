@@ -51,4 +51,4 @@ transactions to infer all previously deployed contracts and then display their r
 token contract: 0x3c9d658a9b358cf1985bc52c5476229e8b186f1f
 
 ## Cute Gif for Motivation 
-![](http://i.imgur.com/60bts.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B5bjdtaHZ2ZTE1NDhkNWFxZzdhaThqcmttOXlpZmJ5NndsMHh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/2zZq0BIvcjVhNNIpgA/giphy.gif)
