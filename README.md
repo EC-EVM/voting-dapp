@@ -28,7 +28,7 @@ cd frontend
 yarn install
 yarn start
 ```
-## Group 2
+## Group 2 Information
 
 | Unique id | Discord username    |
 | --------- | ------------------- |
@@ -40,7 +40,7 @@ yarn start
 | Pok9XD    | @Timster            |
 | T5zGzt    | @Carl Youngblood            |
 
-## Report
+##  Final Report
 
 Our group collaborated on the dapp functionality. Our repo requires that the TOKEN_ADDRESS and BALLOT_ADDRESS
 you want to visualize be set in the .env file. The dapp allows you to delegate votes, deploy a new tokenized
