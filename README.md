@@ -50,5 +50,4 @@ transactions to infer all previously deployed contracts and then display their r
 ## References
 token contract: 0x3c9d658a9b358cf1985bc52c5476229e8b186f1f
 
-## Cute Gif for Motivation 
-![](http://i.imgur.com/60bts.gif)
+
