@@ -22,6 +22,8 @@ cd backend
 npm install
 npm run start:dev
 ```
+Point your browser to see the swagger api: localhost:3001/api
+--------
 Running the frontend scaffold eth 2:
 ```shell 
 cd frontend
