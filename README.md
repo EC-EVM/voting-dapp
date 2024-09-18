@@ -16,7 +16,7 @@ Use the data fetched to create the proposals in the constructor of the ballot
 - [x] All other interactions must be made directly on-chain
 
 ### Getting Started
-Make sure you have your .env file up-to-date. Running the backend api's:
+1) Make sure you have your .env file up-to-date. Running the backend api's:
 ```shell 
 cd backend
 npm install
@@ -24,7 +24,7 @@ npm run start:dev
 ```
 Point your browser to see the swagger api: http://localhost:3001/api
 
-Running the frontend scaffold eth 2:
+2) Running the frontend scaffold eth 2:
 ```shell 
 cd frontend
 yarn install
